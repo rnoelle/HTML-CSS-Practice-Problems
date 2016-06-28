@@ -7,9 +7,6 @@
     background-image: url("../img/Background.png");
     background-size: cover;
 }
-.main-wrapper img {
-  width: 100%;
-}
 
 .top-header {
     width: 100%;
